@@ -51,7 +51,7 @@ Thomas High School remains in the same position within the top 5 schools after w
 
 | Before | After |
 | ------ | ----- |
-|<img src="/Resources/SchoolSpending_before.png" /> | <img src="/Resources/SchoolSpending_before.png" />
+|<img src="/Resources/SchoolSpending_before.png" /> | <img src="/Resources/SchoolSpending_after.png" />
 
   * Scores by school size
     * No impact to the data
